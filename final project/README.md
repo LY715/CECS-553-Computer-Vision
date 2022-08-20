@@ -1,7 +1,7 @@
 
 This is our final project which mainly conducted by ****Justin Kieu, Louis Yang, Sheng-Hung Hung****.  <br> </br>
 
-We implement the paper from this reference: https://arxiv.org/pdf/1805.08318.pdf
+We implement the paper from this reference: https://arxiv.org/pdf/1805.08318.pdf <br></br>
 
 We train 300 epochs for this model. The images below are the epoch of 300th. <br></br>
 ![001](https://user-images.githubusercontent.com/18066827/185768869-9953cb8a-99cf-4e33-8c1b-ff7b97bcb3e9.png)
